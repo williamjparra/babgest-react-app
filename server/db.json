@@ -2,21 +2,12 @@
   "badges": [
     {
       "id": "2de30c42-9deb-40fc-a41f-05e62b5939a7",
-      "firstName": "Freda",
+      "firstName": "Fred334",
       "lastName": "Grady",
       "email": "Leann_Berge@gmail.com",
       "jobTitle": "Legacy Brand Director",
       "twitter": "FredaGrady22221-7573",
       "avatarUrl": "https://www.gravatar.com/avatar/f63a9c45aca0e7e7de0782a6b1dff40b?d=identicon"
-    },
-    {
-      "id": "d00d3614-101a-44ca-b6c2-0be075aeed3d",
-      "firstName": "Major",
-      "lastName": "Rodriguez",
-      "email": "Ilene66@hotmail.com",
-      "jobTitle": "Human Research Architect",
-      "twitter": "MajorRodriguez61545",
-      "avatarUrl": "https://www.gravatar.com/avatar/d57a8be8cb9219609905da25d5f3e50a?d=identicon"
     },
     {
       "id": "63c03386-33a2-4512-9ac1-354ad7bec5e9",
@@ -308,7 +299,7 @@
     },
     {
       "id": "ea5640b9-3177-47bb-8fe4-25338c43e66c",
-      "firstName": "Arno",
+      "firstName": "Arnold",
       "lastName": "Murphy",
       "email": "Raegan_Morar59@hotmail.com",
       "jobTitle": "Lead Intranet Architect",
@@ -317,7 +308,7 @@
     },
     {
       "id": "058d574c-4b67-4607-aae5-d00cfe257182",
-      "firstName": "Emile",
+      "firstName": "Emile2",
       "lastName": "Paucek",
       "email": "Titus_Cremin15@yahoo.com",
       "jobTitle": "Internal Marketing Manager",
@@ -440,6 +431,38 @@
       "jobTitle": "Lawyer",
       "twitter": "ckaufmanpr",
       "id": "npaYZKI"
+    },
+    {
+      "firstName": "william",
+      "lastName": "Parra",
+      "email": "w3webservices.net@gmail.com",
+      "jobTitle": "Boss in plugnet",
+      "twitter": "williamjparra",
+      "id": "fKoi1MB"
+    },
+    {
+      "firstName": "jose",
+      "lastName": "perez",
+      "email": "wordpressdevm@gmail.com",
+      "jobTitle": "Back-end dev",
+      "twitter": "backDevWorpres--6",
+      "id": "r_KGRtz"
+    },
+    {
+      "firstName": "classmate",
+      "lastName": "the-master-sword",
+      "email": "worpressdev@gmail.com",
+      "jobTitle": "wordpress dev",
+      "twitter": "1212thebest3",
+      "id": "4GMvHCd"
+    },
+    {
+      "firstName": "Diego",
+      "lastName": "parra",
+      "email": "parradiegofsdas@gmail.comasd",
+      "jobTitle": "Diseñador grafico que no hace nada",
+      "twitter": "no_tengo_twitter",
+      "id": "eCD0H5a"
     }
   ]
 }

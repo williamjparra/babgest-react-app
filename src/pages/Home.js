@@ -5,7 +5,7 @@ import './styles/Home.css';
 import platziconfLogoImage from '../images/platziconf-logo.svg';
 import astronautsImage from '../images/astronauts.svg';
 
-export default class Home extends Component {
+class Home extends React.Component {
   render() {
     return (
       <div className="Home">
@@ -37,3 +37,5 @@ export default class Home extends Component {
     );
   }
 }
+
+export default Home
